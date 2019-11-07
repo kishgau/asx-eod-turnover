@@ -1,9 +1,8 @@
 Draft ----
 # asx-eod-turnover
-This application consumes asx historical data uploaded to postgresdb and provide a restful webservices using Java/Mulesoft backend.
- RAML
-   GET :
-   
  
+Source : Database : marketdata https://www.asxhistoricaldata.com/
 
-Database : marketdata https://www.asxhistoricaldata.com/
+Steps : 
+1. Create docker image for postgre db
+2. 
