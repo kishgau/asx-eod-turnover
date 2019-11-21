@@ -1,8 +1,8 @@
 # Concepts: Python, PostgreSQL , Docker 
 
-# Objective: to dockerize PostgreSQL db and a Python app 
+ Objective: to dockerize PostgreSQL db and a Python app 
 
-# Python program accept user args and intereact with postgres db running in another docker container
+  Python program accept user args and intereact with postgres db running in another docker container
 
  
 Data Source : marketdata https://www.asxhistoricaldata.com/
