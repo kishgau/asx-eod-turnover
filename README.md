@@ -13,10 +13,10 @@ Initial posgres sql db set up :
    columns  : ticker,data,open,high,low,close,vlume
    
    
-Container I:
+# Container I:
    Postgres db : asx_eod
      
-Container II:
+# Container II:
   Program (py) :
    Args                     |    O/P       |     Comments
    -------------------------------------------------------------
