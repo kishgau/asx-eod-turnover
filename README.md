@@ -1,11 +1,9 @@
-# Concepts: Python, PostgreSQL , Docker 
+#CI/CD pipeline using Python, PostgreSQL , Docker, Jenkins, Artefactory, github
 
- Objective: to dockerize PostgreSQL db and a Python app 
-
-  Python program accept user args and intereact with postgres db running in another docker container
+# Python program accept user args and interact with postgres db running in another docker container
 
  
-Data Source : marketdata https://www.asxhistoricaldata.com/
+#Data Source courtsey : marketdata https://www.asxhistoricaldata.com/
 
 Initial posgres sql db set up : 
    database : asx_eod
